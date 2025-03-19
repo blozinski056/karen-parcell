@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   description:
     "Karen Parcell Homes - Berkshire Hathaway | Where exceptional service meets luxury real estate",
   icons: {
-    icon: "/icons/favicon.png",
+    icon: "/icons/favicon-gray.png",
   },
 };
 
