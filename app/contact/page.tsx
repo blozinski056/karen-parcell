@@ -4,11 +4,11 @@ import emailjs from "@emailjs/browser";
 
 import Image from "next/image";
 import fbBlack from "../../public/icons/facebook-black.png";
-import fbBlue from "../../public/icons/facebook-blue.png";
+import fbGray from "../../public/icons/facebook-gray.png";
 import instaBlack from "../../public/icons/instagram-black.png";
-import instaBlue from "../../public/icons/instagram-blue.png";
+import instaGray from "../../public/icons/instagram-gray.png";
 import linkedinBlack from "../../public/icons/linkedin-black.png";
-import linkedinBlue from "../../public/icons/linkedin-blue.png";
+import linkedinGray from "../../public/icons/linkedin-gray.png";
 
 export default function Contact() {
   function sendEmail(e: React.FormEvent<HTMLFormElement>) {
@@ -80,15 +80,15 @@ export default function Contact() {
         <div>
           <a href="//www.facebook.com/KarenParcellHomes/">
             <Image src={fbBlack} alt="" />
-            <Image src={fbBlue} alt="" />
+            <Image src={fbGray} alt="" />
           </a>
           <a href="//www.instagram.com/karenparcell_homes">
             <Image src={instaBlack} alt="" />
-            <Image src={instaBlue} alt="" />
+            <Image src={instaGray} alt="" />
           </a>
           <a href="//www.linkedin.com/in/karen-parcell-192128133/">
             <Image src={linkedinBlack} alt="" />
-            <Image src={linkedinBlue} alt="" />
+            <Image src={linkedinGray} alt="" />
           </a>
         </div>
       </div>
