@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Personal Website for a Real Estate Agent (my friend's mom!)
 
-## Getting Started
+Check out the website [here](https://www.karenparcellhomes.com/)
 
-First, run the development server:
+My friend's mom asked me to create a personal website for her because her old website felt busy, clunky, and outdated. My goal was to keep her website simple, organized, clean, and professional in order to attract clients.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Since she is primarily working with clients in West Los Angeles, I wanted to create a website with warm and light, sand and ocean colors of the beach. She liked the colors, but, unfortunately, I could not keep the gray-blue ![#3f7d96](https://placehold.co/15x15/3f7d96/3f7d96.png) `#3f7d96` colored accents because it conflicted with her Real Estate agency's colors (maroon of Berkshire Hathaway).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+I had fun creating this multi-page website using Next.js, and I implemented a paralax scroll for the first time!
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+She requested that I show her accolades, while also keeping the testimonials from her [previous page](https://karenparcell.com/).
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Created with:  
 
-## Learn More
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-To learn more about Next.js, take a look at the following resources:
+## Hosted with:  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
